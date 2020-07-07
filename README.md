@@ -1,2 +1,2 @@
 # gridd_course
-Machine learning course from Grid Dynamics
+Machine learning course by Grid Dynamics
